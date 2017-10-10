@@ -1,0 +1,44 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Righteous'; }
+
+p {
+	font-family: sans-serif, arial; }
+
+
+.hcenter {
+	float: none;
+	width: 100%; }  
+ 
+.vcenter {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+    float: none; }
+
+.bk-orange { 
+	background: #E69A3F; }
+
+.menuTitle {
+	color: #fff;
+	text-shadow: 1px 1px #000; }
+
+.drinkItem {
+	text-transform: uppercase;
+	text-align: left;
+	padding-bottom: 15px;  }
+
+.drinkPrice {
+	text-align: left;
+	color: red;  }
+
+.drinkInfo {
+	color: #fff; }
+ 
+ul {
+	list-style-type: none;
+	text-align: left; 
+	padding: 0; }
+
+.menuItem {
+	padding: 20px 0;  }
